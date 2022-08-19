@@ -1,4 +1,3 @@
-```js
 /**
  * @param {number} low
  * @param {number} high
@@ -11,4 +10,3 @@ var countOdds = function(low, high) {
       count++;
   return count;
 }
-```
