@@ -21,3 +21,6 @@ Explanation: The odd numbers between 8 and 10 are [9].
 #### Constraints:
 - `0 <= low <= high <= 10^9`
 
+### My Feedback
+I found this challenge, for one easy, and two when submitting the test code kept failing due to time limit exceeding.  I removed the curly brackets as they were not necessary to have seeing as the code within the blocks were one line.  I tested this once in JavaScript, and four times in C#.  The first two C# attempts, first attempt didn't pass, second attempt I removed the curly brackets and code was Accepted.  Logged in as a different user the next day, and did the exact same code, but the Time Limit not only exceeds, the time limit for the test sample input is taking longer than it did in the previous user login.
+
